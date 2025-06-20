@@ -31,7 +31,7 @@ In summary, the Computer Science program has equipped me to approach real-world 
 ## Code Review
 
 This is a video of a code review I conducted, explaining the old artifact I was enhancing and the enhancements I made. Click the image to watch to code review video!
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/R6eqbdNAG-g/maxresdefault.jpg)](https://youtu.be/R6eqbdNAG-g)
 ---
 
 ## Artifacts
