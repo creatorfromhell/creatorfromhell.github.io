@@ -46,7 +46,7 @@ This ePortfolio showcases a single, multifaceted artifact: a procedurally genera
   - Dynamic lighting system
   - MongoDB‑backed persistence
   - [Source Code](https://github.com/creatorfromhell/IslandSurvival)
-  - [Download Runnable](https://github.com/creatorfromhell/IslandSurvival)
+  - [Download Runnable](https://github.com/creatorfromhell/IslandSurvival/releases/download/1.0.0/IslandSurvival-1.0.0.jar)
 
 This evolution illustrates applied knowledge in OOP, game loops, database connectivity, and behavior-based AI.
 
